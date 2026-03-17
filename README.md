@@ -29,9 +29,7 @@ I have experience with front-end and back-end development and I'm always looking
 Feel free to reach out!  
 
 - [Instagram](https://www.instagram.com/g_coutinhoo)  
-- [LinkedIn](https://www.linkedin.com/in/gabriel-coutinho-de-souza-52016327b)  
-- Email: your-email@example.com  
-
+- [LinkedIn](https://www.linkedin.com/in/gabriel-coutinho-de-souza-52016327b/)  
 ---
 
 > "Keep learning, keep coding, and keep growing!" 🚀
