@@ -1,4 +1,4 @@
-i vai uma versão melhorada + atualizada com sua stack:
+
 
 ## 🧑‍💻 About Me
 Hi, I'm Gabriel! I'm a Full Stack Developer in training, passionate about building scalable applications and constantly improving my skills.
